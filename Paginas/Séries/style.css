@@ -1,0 +1,40 @@
+.logo img {
+    width: 250px;
+    height: 80px;
+    position: relative;
+    left: 35%;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #007bff;
+}
+
+.manchete1 img {
+width: 400px;
+height: 250px;
+margin-top: 50px;
+}
+.manchete2 img {
+width: 400px;
+height: 250px;
+}
+.manchete3 img {
+width: 400px;
+height: 250px;
+}
+.manchete1 {
+    width: 33%;
+}
+.manchete2 {
+    position: relative;
+    left: 450px;
+    top: -335px;
+    width: 33%;
+    }
+.manchete3 {
+    position: relative;
+    left: 900px;
+    top: -672px;
+    width: 33%;
+}
+

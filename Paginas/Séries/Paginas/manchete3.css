@@ -1,0 +1,26 @@
+.logo img {
+    width: 500px;
+    padding-left: 30%;
+}
+
+.voltar img {
+    width: 80px;
+    padding-bottom: 30px;
+}
+
+.imagem img {
+    width: 100%;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.materia {
+    text-align: justify;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}

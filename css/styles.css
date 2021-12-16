@@ -1,0 +1,38 @@
+body {
+    background-image: url("../imagens/background/fundo\ com\ logo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 85%;
+}
+.subtitles {
+    background-color: rgba(255, 255, 255, 0.1)
+}
+h5 {
+    color: greenyellow;
+    font-size: 30px;
+}
+
+.menu {
+    text-align: center;
+    padding: 160px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: -50px;
+}
+
+.menu-l li {
+    list-style: none;
+    display: inline-block;
+}
+
+.menu-l a {
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.menu-l ul {
+    justify-content: space-between;
+}
